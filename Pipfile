@@ -12,6 +12,8 @@ langchain-openai = "*"
 langchain-experimental = "*"
 arcade = "*"
 qrcode = "*"
+pandas = "*"
+tabulate = "*"
 
 [dev-packages]
 
